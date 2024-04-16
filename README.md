@@ -1,0 +1,1 @@
+# OBS-vertical-template
